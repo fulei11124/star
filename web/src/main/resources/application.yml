@@ -1,0 +1,4 @@
+# spring profile  上线前需手动指定
+spring:
+  profiles:
+    active: local
