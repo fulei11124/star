@@ -1,4 +1,4 @@
-package com.dream.star.utils.common;
+package com.dream.star.utils;
 
 import com.dream.star.model.common.RespEntity;
 import com.dream.star.model.enums.StatusCode;

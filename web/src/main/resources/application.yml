@@ -2,3 +2,8 @@
 spring:
   profiles:
     active: local
+#mybatis配置
+mybatis:
+#  typeAliasesPackage: com.example.mybaitsxml.dao.entity
+  mapperLocations: classpath:mapper/sys/*.xml
+  #configLocation: classpath:/mybatis-config.xml
